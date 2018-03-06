@@ -11,3 +11,5 @@
     To get started, change "githubuser" to your Github user. 
     Then change ProjectX to the titular name of your project. 
     Then change projectx to the Github name of your project.
+
+    License: https://github.com/upspin/upspin/blob/master/LICENSE
